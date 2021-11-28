@@ -1,0 +1,75 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    height: 100vh;
+   padding: 10px;
+}
+ 
+.logo{
+   display: block;
+   margin: auto;
+   height: 100px;
+   width: 100px;
+ }
+
+.container{
+    background-color: #EF8557;
+    margin: auto;
+    height: 75vh;
+    width: 100vmax;
+    padding: 40px;
+    border-radius: 32px;
+    color: white;
+    font-size: x-large;
+    overflow-y: auto;
+    font-weight: bolder;
+}
+
+.left{
+    float: left;
+    clear: both;
+}
+.right{
+    float: right;
+    clear: both;
+}
+.middle{
+    
+    margin-right: 100px;
+}
+
+
+
+#sendContainer{
+   display: flex;
+   gap: 10px;
+   justify-content: center;
+   margin: 10px;
+   width: 96vmax;
+   
+}
+#InpMessage{
+
+ height: 60px;
+ font-size: 30px;
+ font-weight: 600;
+ border-radius: 32px;
+ 
+}
+.s{
+    width: 80px;
+    height: 80px;
+}
+
+.messageBox{
+    background-color: #5C80BC;
+    width: fit-content;
+    height: fit-content;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
