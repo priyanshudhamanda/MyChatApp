@@ -18,7 +18,7 @@ body{
 .container{
     background-color: #EF8557;
     margin: auto;
-    height: 75vh;
+    height: 70vh;
     width: 100vmax;
     padding: 40px;
     border-radius: 32px;
@@ -48,7 +48,7 @@ body{
    gap: 10px;
    justify-content: center;
    margin: 10px;
-   width: 96vmax;
+   width: 80vmax;
    
 }
 #InpMessage{
